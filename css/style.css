@@ -48,7 +48,7 @@ nav a {
 }
 
 nav a:hover {
-    color: #4c4c4c;
+    color: #606060;
 }
 
 nav img{
@@ -85,7 +85,7 @@ nav img{
     text-align: center;
     color: #fff;
     z-index: 9999;
-    padding: 0 50px;
+    padding: 0 240px;
 }
 
 .hero h1{
@@ -236,7 +236,8 @@ li.cat {
 }
 
 .footer a:hover {
-    color: #4c4c4c;
+    color: #606060;
+    text-decoration: underline;
 }
 
 .copyright {
