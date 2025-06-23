@@ -426,10 +426,6 @@ li.cat {
         font-size: 42px;
     }
 
-    .text-box {
-        max-width: 600px;
-    }
-
     .modal-content {
         flex-direction: column;
     }
@@ -462,16 +458,20 @@ li.cat {
         margin-bottom: 50px;
     }
 
-    .text-box {
-        max-width: 560px;
-    }
-
     .modal-content {
         gap: 20px;
     }
 
     .modal-text {
         max-width: 620px;
+    }
+
+    .hero-text {
+        padding: 0 120px;
+    }
+
+    .text-box {
+        padding: 0 20px;
     }
 }
 
@@ -526,10 +526,6 @@ li.cat {
 
     .footer ul {
         padding: 0 20px;
-    }
-
-    .text-box {
-        max-width: 440px;
     }
 
     .modal-text {
@@ -603,10 +599,6 @@ li.cat {
         font-size: 34px;
     }
 
-    .text-box {
-        max-width: 380px;
-    }
-
     .text-box p, .text-box li, .text-box ul {
         font-size: 16px;
     }
@@ -631,10 +623,6 @@ li.cat {
 
     .parchi h2, .scopri h2, .evidenza h2, .attivita h2, .text h2 {
         font-size: 30px;
-    }
-
-    .text-box {
-        max-width: 280px;
     }
 
     .modal-content img {
@@ -671,10 +659,6 @@ li.cat {
 
     .parchi h2, .scopri h2, .evidenza h2, .attivita h2, .text h2 {
         font-size: 26px;
-    }
-
-    .text-box {
-        max-width: 240px;
     }
 }
 
