@@ -606,6 +606,10 @@ li.cat {
     .modal-text {
         max-width: 330px;
     }
+
+    .text-box {
+        padding: 0 10px;
+    }
 }
 
 @media(max-width: 480px) {
